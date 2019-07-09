@@ -1,0 +1,34 @@
+html{
+    background-color: steelblue;
+    padding-left: 150px;
+    padding-right: 150px;
+}
+
+body{
+    background-color: white;
+    padding-left: 60px;
+    padding-right: 60px;
+    padding-bottom: 50px;
+    padding-top: 20px;
+}
+
+h1{
+    color: steelblue;
+}
+
+h2 p{
+    color: black
+}
+
+button{
+    background-color: steelblue;
+    color: white;
+    padding: 5px 15px;
+    font-size: 15px;
+}
+
+#madlib-message{
+    border: 2px solid steelblue;
+    font-size: 20px;
+    font-family: Impact;
+}
